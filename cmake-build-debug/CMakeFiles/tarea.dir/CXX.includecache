@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Program Files/CLion/CLionProjects/tarea/display_tools.h
+
+D:/Program Files/CLion/CLionProjects/tarea/main.cpp
+iostream
+-
+math_tools.h
+D:/Program Files/CLion/CLionProjects/tarea/math_tools.h
+display_tools.h
+D:/Program Files/CLion/CLionProjects/tarea/display_tools.h
+
+D:/Program Files/CLion/CLionProjects/tarea/math_tools.h
+vector
+-
+math.h
+D:/Program Files/CLion/CLionProjects/tarea/math.h
+stdlib.h
+D:/Program Files/CLion/CLionProjects/tarea/stdlib.h
+
